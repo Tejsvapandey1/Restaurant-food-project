@@ -91,7 +91,3 @@ Then open `http://localhost:3000` (or the configured port).
 Developed and maintained by **Tejsva Pandey**.
 Feel free to fork and extend the project.
 
----
-
-```
-
