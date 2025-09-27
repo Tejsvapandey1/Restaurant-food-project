@@ -93,9 +93,5 @@ Feel free to fork and extend the project.
 
 ---
 
-## 📜 License
-
-This project is open-source. See the LICENSE file for details.
-
 ```
 
