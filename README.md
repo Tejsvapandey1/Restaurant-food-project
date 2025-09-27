@@ -1,5 +1,3 @@
-Perfect 👍 Here’s the **complete `README.md`** you can copy-paste into your repo directly:
-
 ---
 
 ```markdown
